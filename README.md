@@ -8,6 +8,6 @@ Mi Cronograma de Estudio:
 * *Mes 4:* Aprender los alfabetos japoneses (Hiragana y Katakana)
 
 Herramientas Utilizadas:
-* *Laptop HP ProBook 440 G8 (16 GB RAM)
-* *SQLBolt & Select Star SQL
-* *Terminus (MIT) & WSL2
+* Laptop HP ProBook 440 G8 (16 GB RAM)
+* SQLBolt & Select Star SQL
+* Terminus (MIT) & WSL2
